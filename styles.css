@@ -1,0 +1,76 @@
+body{
+    background-color: #8DC9BB;
+}
+
+h1{
+    margin: 5%;
+    text-align: center;
+}
+li{
+    line-height: 150%;
+}
+.project{
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+#issueDiv{
+    margin-top: 7%;
+    margin-left: 5%;
+}
+#issues{
+    display: flex;
+}
+#oldwebsite{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 35%;
+    display: inline;
+}
+#prototypeDiv{
+    margin-top: 7%;
+    margin-left: 5%;
+}
+#prototypeText{
+    display: flex;
+}
+#finalProduct{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#website{
+    width: 75%;
+}
+
+#mobileLF{
+    width: 27%;
+}
+#iPadLF{
+    width: 46%;
+}
+#desktopLF{
+    width: 25%;
+}
+#visual{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#mobileHFstart{
+    width: 16%;
+}
+#iPadHFstart{
+    width: 25%;
+}
+#desktopHFstart{
+    width: 55%;
+}
+#mobileHF{
+    width: 18%;
+}
+#iPadHF{
+    width: 33%;
+}
+#desktopHF{
+    width: 45%;
+}
